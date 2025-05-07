@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
-  - [Installing Virtualbox and Windows Server 2016](https://github.com/LaloPalacios/LABURL)
+  - [Installing Virtualbox and Windows Server 2016](https://github.com/LaloPalacios/VirtualBoxWindowsServer16)
 
 <h2>Certifications:</h2>
 
